@@ -2,7 +2,7 @@ Reproducing Code for JASA-T&M-2023-0201
 ================
 
 Reference:
-* Statistical Inference with Stochastic Gradient Methods under $\phi$-mixing Data,  by Ruiqi Liu, Xi Chen and Zuofeng Shang,  Journal of the American Statistical Association (2026+)
+* Statistical Inference with Stochastic Gradient Methods under $\phi$-mixing Data,  by Ruiqi Liu, Xi Chen and Zuofeng Shang, Journal of the American Statistical Association (2026+)
 
 
 ## Folder contents
